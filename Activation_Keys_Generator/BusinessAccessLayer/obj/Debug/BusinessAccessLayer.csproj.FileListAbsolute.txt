@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Activation_Keys_Generator\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\User\Desktop\Activation_Keys_Generator\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\User\Desktop\Activation_Keys_Generator\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Activation_Keys_Generator\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Activation_Keys_Generator\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Activation_Keys_Generator\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Activation_Keys_Generator\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
+C:\Users\User\Desktop\Activation_Keys_Generator\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\User\Desktop\Activation_Keys_Generator\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb

@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\bin\Debug\ActivationKeyGenerator.exe.config
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\bin\Debug\ActivationKeyGenerator.exe
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\bin\Debug\ActivationKeyGenerator.pdb
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\obj\Debug\ActivationKeyGenerator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\obj\Debug\ActivationKeyGenerator.frmLogin.resources
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\obj\Debug\ActivationKeyGenerator.Properties.Resources.resources
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\obj\Debug\ActivationKeyGenerator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\obj\Debug\ActivationKeyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\obj\Debug\ActivationKeyGenerator.exe
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\obj\Debug\ActivationKeyGenerator.pdb
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\bin\Debug\BusinessAccessLayer.dll
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\obj\Debug\ActivationKeyGenerator.csproj.CopyComplete
+C:\Users\User\Desktop\Activation_Keys_Generator\ActivationKeyGenerator\obj\Debug\ActivationKeyGenerator.frmMain.resources
